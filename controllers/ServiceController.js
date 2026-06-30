@@ -1,6 +1,6 @@
 // controllers/serviceController.js
 
-const Service = require('../models/Service')
+const Service = require('../models/service')
 
 class ServiceController {
 
